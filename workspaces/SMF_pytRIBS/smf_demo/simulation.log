@@ -30,9 +30,9 @@ Parameter =   TLINKE			2.5
 Parameter =   BASEFLOW			0.2
 Parameter =   VELOCITYCOEF			1.2
 Parameter =   VELOCITYRATIO			60
-Parameter =   KINEMVELCOEF			38
-Parameter =   FLOWEXP			0.55
-Parameter =   CHANNELROUGHNESS			0.04
+Parameter =   KINEMVELCOEF			5
+Parameter =   FLOWEXP			0.6
+Parameter =   CHANNELROUGHNESS			0.035
 Parameter =   CHANNELWIDTHCOEFF			0.5
 Parameter =   CHANNELWIDTHEXPNT			0.54
 Parameter =   CHANNELWIDTHFILE			
@@ -179,8 +179,8 @@ Hydrograph File Extension: 	mrf
 
 Channel Characteristics:
 
-Kinematic velocity coefficient: 38.000000
-Roughness coefficient: 		0.040000
+Kinematic velocity coefficient: 5.000000
+Roughness coefficient: 		0.035000
 Channel width: 			Variable
 
 Channel widths determined from geomorphic relations...
